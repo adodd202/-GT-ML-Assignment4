@@ -5,7 +5,7 @@ Assignment #4: Markov Decision Processes
 
 To run:
 1. Clone repos
-       Repo URL: https://github.com/adodd202/GT-ML-Assignment3
+       Repo URL: https://github.com/adodd202/GT-ML-Assignment4
 2. Install with pip: 
 	- sklearn, tqdm, pandas, seaborn, numpy, matplotlib, mdptoolbox-hiive
 3. Clone my forked repo of gym and install:
